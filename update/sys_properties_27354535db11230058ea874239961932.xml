@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Botname to which to fire command to...</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_286348_lexsnowap.lex.snow.botname</name>
+        <read_roles/>
+        <suffix>lex.snow.botname</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-22 13:39:26</sys_created_on>
+        <sys_id>27354535db11230058ea874239961932</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_286348_lexsnowap.lex.snow.botname</sys_name>
+        <sys_package display_value="LexSnowApp" source="x_286348_lexsnowap">598d90e1db51230058ea8742399619e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LexSnowApp">598d90e1db51230058ea8742399619e0</sys_scope>
+        <sys_update_name>sys_properties_27354535db11230058ea874239961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-22 16:50:07</sys_updated_on>
+        <type>string</type>
+        <value>TestBot</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=27354535db11230058ea874239961932"/>
+</record_update>
